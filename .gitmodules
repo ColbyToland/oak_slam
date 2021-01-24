@@ -1,0 +1,6 @@
+[submodule "depthai"]
+	path = depthai
+	url = https://github.com/luxonis/depthai.git
+[submodule "ORB_SLAM3"]
+	path = ORB_SLAM3
+	url = git@github.com:UZ-SLAMLab/ORB_SLAM3.git
